@@ -15,3 +15,6 @@
     - 3-11: 
       * Link to Quiz: [Hijacking Requests 1 Quiz](https://classroom.udacity.com/courses/ud899-gwg/lessons/6381510081/concepts/63885494380923)
       * Solution Code Changes: [Commit 8626922](https://github.com/othomas1984/wittr/commit/86269223a23586b386f46037f873fe31bb5a98a6)
+    - 3-13: 
+      * Link to Quiz: [Hijacking Requests 2 Quiz](https://classroom.udacity.com/courses/ud899-gwg/lessons/6381510081/concepts/63885494420923)
+      * Solution Code Changes: [Commit 30d76e2](https://github.com/othomas1984/wittr/commit/30d76e2ce679f4e2ebb85f0a52e4d2891ee75799)
