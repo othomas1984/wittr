@@ -4,6 +4,9 @@ This is a silly little demo app for an offline-first course.
 
 You could run the app either using machine dependnecies, or using docker
 
+## Hints/Tips/Tricks & Full Code Changes For Each Lesson
+[Click here](TIPS.md) for a full list of lessons requring code changes, as well as links to commits including the full code changes needed for the lesson.
+
 ## Running using local machine
 
 ### Installing
