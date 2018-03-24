@@ -30,4 +30,13 @@
     - 3-20: 
       * Link to Quiz: [Update Your CSS Quiz](https://classroom.udacity.com/courses/ud899-gwg/lessons/6381510081/concepts/63885494570923)
       * Solution Code Changes: [Commit b25ac3d](https://github.com/othomas1984/wittr/commit/b25ac3d6b267bfeef3fdd1cc7b4f83e4518d201a)
+    - 3-23: 
+      * Link to Quiz: [Adding UX Quiz](https://classroom.udacity.com/courses/ud899-gwg/lessons/6381510081/concepts/63885494630923)
+      * Solution Code Changes: [Commit f31c443](https://github.com/othomas1984/wittr/commit/f31c44315562ea18a2337dda6c119cad105d224e)
+    - 3-25: 
+      * Link to Quiz: [Triggering an Update Quiz](https://classroom.udacity.com/courses/ud899-gwg/lessons/6381510081/concepts/63885494670923)
+      * Solution Code Changes: *In Progress*
+    - 3-26: 
+      * Link to Quiz: [Caching the Page Skeleton](https://classroom.udacity.com/courses/ud899-gwg/lessons/6381510081/concepts/63885494700923)
+      * Solution Code Changes: *Next Up*
 
