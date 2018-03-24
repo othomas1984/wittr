@@ -1,7 +1,7 @@
 self.addEventListener('fetch', function(event) {
+  // TODO: only respond to requests with a
+  // url ending in ".jpg"
   event.respondWith(
-      new Response('<span class="a-winner-is-me">A Winner Is Me</span>', {
-        headers: {'Content-Type': 'text/html'}
-      })
-    );
+    fetch('/imgs/dr-evil.gif')
+  );
 });
