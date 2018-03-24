@@ -1,6 +1,8 @@
+var staticCacheName = 'wittr-static-v2';
+
 self.addEventListener('install', function(event) {
   event.waitUntil(
-    caches.open('wittr-static-v2').then(function(cache) {
+    caches.open(staticCacheName).then(function(cache) {
       return cache.addAll([
         '/',
         'js/main.js',
@@ -19,7 +21,7 @@ self.addEventListener('activate', function(event) {
       return Promise.all(
         cacheNames.filter(function(cacheName) {
           return cacheName.startsWith('wittr-') &&
-                 cacheName != 'wittr-static-v2';
+                 cacheName != staticCacheName;
         }).map(function(cacheName) {
           return caches.delete(cacheName);
         })
