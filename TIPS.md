@@ -35,8 +35,8 @@
       * Solution Code Changes: [Commit f31c443](https://github.com/othomas1984/wittr/commit/f31c44315562ea18a2337dda6c119cad105d224e)
     - 3-25: 
       * Link to Quiz: [Triggering an Update Quiz](https://classroom.udacity.com/courses/ud899-gwg/lessons/6381510081/concepts/63885494670923)
-      * Solution Code Changes: *In Progress*
+      * Solution Code Changes: [Commit 386cb17](https://github.com/othomas1984/wittr/commit/386cb170f5cc82729f71a599e819e2e0ea68ff44)
     - 3-26: 
       * Link to Quiz: [Caching the Page Skeleton](https://classroom.udacity.com/courses/ud899-gwg/lessons/6381510081/concepts/63885494700923)
-      * Solution Code Changes: *Next Up*
+      * Solution Code Changes: *In Progress*
 
