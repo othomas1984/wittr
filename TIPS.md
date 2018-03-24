@@ -21,3 +21,6 @@
     - 3-15: 
       * Link to Quiz: [Hijacking Requests 3 Quiz](https://classroom.udacity.com/courses/ud899-gwg/lessons/6381510081/concepts/63885494460923)
       * Solution Code Changes: [Commit 3390833](https://github.com/othomas1984/wittr/commit/3390833fbdc086d857469f9a450a7c86274c04f0)
+    - 3-17: 
+      * Link to Quiz: [Install and Cache Quiz](https://classroom.udacity.com/courses/ud899-gwg/lessons/6381510081/concepts/63885494500923)
+      * Solution Code Changes: [Commit d1b7017](https://github.com/othomas1984/wittr/commit/d1b701796c2480de27a9cd8dc70688f0c546333c)
