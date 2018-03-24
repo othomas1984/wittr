@@ -35,6 +35,9 @@ IndexController.prototype._registerServiceWorker = function() {
       indexController._trackInstalling(reg.installing);
     });
   });
+
+  // TODO: listen for the controlling service worker changing
+  // and reload the page
 };
 
 IndexController.prototype._trackInstalling = function(worker) {
@@ -46,9 +49,14 @@ IndexController.prototype._trackInstalling = function(worker) {
   });
 };
 
-IndexController.prototype._updateReady = function() {
+IndexController.prototype._updateReady = function(worker) {
   var toast = this._toastsView.show("New version available", {
-    buttons: ['whatever']
+    buttons: ['refresh', 'dismiss']
+  });
+
+  toast.answer.then(function(answer) {
+    if (answer != 'refresh') return;
+    // TODO: tell the service worker to skipWaiting
   });
 };
 
