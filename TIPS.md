@@ -27,3 +27,7 @@
     - 3-18: 
       * Link to Quiz: [Cache Response Quiz](https://classroom.udacity.com/courses/ud899-gwg/lessons/6381510081/concepts/63885494530923)
       * Solution Code Changes: [Commit 6bfe216](https://github.com/othomas1984/wittr/commit/6bfe2166605f29c6a35a9a18bd66bfc6d19c04fc)
+    - 3-20: 
+      * Link to Quiz: [Update Your CSS Quiz](https://classroom.udacity.com/courses/ud899-gwg/lessons/6381510081/concepts/63885494570923)
+      * Solution Code Changes: [Commit b25ac3d](https://github.com/othomas1984/wittr/commit/b25ac3d6b267bfeef3fdd1cc7b4f83e4518d201a)
+
